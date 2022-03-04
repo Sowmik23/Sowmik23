@@ -2,10 +2,15 @@
     <h2>Hi there 👋, I'm <a href="https://www.linkedin.com/in/sowmik-sarker/">Sowmik Sarker</a></h2>
 </div>
 <div align="center">
+<a href="https://github.com/Sowmik23"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sowmik23&show_icons=true&hide=issues&include_all_commits=true&theme=buefy&hide_border=true" alt="Sowmik Sarker's github stats"" /></a><a href="https://github.com/Sowmik23"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmik23&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
+</div>
+
+<!--
+<div align="center">
     <a href="https://github.com/sowmik23"><img align="center" src=https://github-readme-stats.vercel.app/api?username=Sowmik23&show_icons=true&hide=issues&theme=buefy" alt="My github stats" /></a>
     <a href="https://github.com/sowmik23"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmik23&layout=compact&theme=buefy&langs_count=8" /></a>
 </div>
-
+-->
 
 ### :gear: My skills include:
 
@@ -17,7 +22,7 @@
 
 - **Frameworks**: `Spring Boot`, `Spring`, `Apache Struts 2`, `Python Flask` 
     
-- **Algorithms** , **Data-Structures**
+- **Data-Structures**, **Algorithms**
 
 - **Operating System**: `Linux(Ubuntu)`, `Windows`        
         
