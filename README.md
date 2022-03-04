@@ -1,9 +1,36 @@
-<!--### Hi there 👋 -->
+<div align="center">
+    <h2>Hi there 👋, I'm <a href="https://www.linkedin.com/in/sowmik-sarker/">Sowmik Sarker</a></h2>
+</div>
+<div align="center">
+    <a href="https://github.com/sowmik23"><img align="center" src=https://github-readme-stats.vercel.app/api?username=Sowmik23&show_icons=true&hide=issues&theme=buefy" alt="My github stats" /></a>
+    <a href="https://github.com/sowmik23"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmik23&layout=compact&theme=buefy&langs_count=8" /></a>
+</div>
 
+
+### :gear: My skills include:
+
+- **Languages**: `C`, `C++`,`Java`, `Python`
+ 
+- **Familiar**: `React`, `Node`, `HTML / CSS / JavaScript`
+
+- **Databases**: `MySQL`, `Oracle`, `MongoDB`, `Firebase`, `SQLite`
+
+- **Frameworks**: `Spring Boot`, `Spring`, `Apache Struts 2`, `Python Flask` 
+    
+- **Algorithms** , **Data-Structures**
+
+- **Operating System**: `Linux(Ubuntu)`, `Windows`        
+        
+   
+<br>
+<div align="center">
+    <h2>🤝 Connect With Me 🤝</h2>
+    <p><a href="https://github.com/Sowmik23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/sowmik-sarker/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://leetcode.com/Sowmik_Sarker/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%2312100E.svg?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp;<a href="https://www.hackerrank.com/sowmiksarker_231" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%230077B5.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" /></a></p>
+</div>
+      
+        
 <!--
-**Sowmik23/Sowmik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Have a look on my [portfolio](https://sowmik23.github.io/My-Portfolio) .** 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,18 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-    <h2>Hi there 👋, I'm <a href="https://www.linkedin.com/in/sowmik-sarker-aa702b169/">Sowmik Sarker</a></h2>
-</div>
-<div align="center">
-    <a href="https://github.com/sowmik23">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Sowmik23&show_icons=true&hide=issues&theme=buefy" alt="My github stats" />
-    </a>
-    <a href="https://github.com/sowmik23"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sowmik23&layout=compact&theme=buefy&langs_count=8" /></a>
-</div>
-
 <!--
 ![Profile views](https://gpvc.arturio.dev/Sowmik23)
 -->
