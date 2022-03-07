@@ -11,7 +11,7 @@
     <a href="https://github.com/sowmik23"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmik23&layout=compact&theme=buefy&langs_count=8" /></a>
 </div>
 -->
-
+<!--
 ### :gear: My skills include:
 
 - **Languages**: `C`, `C++`,`Java`, `Python`
@@ -25,7 +25,7 @@
 - **Data-Structures**, **Algorithms**
 
 - **Operating System**: `Linux(Ubuntu)`, `Windows`        
-        
+  -->     
 <!--   
 <br>
 <div align="center">
