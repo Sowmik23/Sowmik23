@@ -18,10 +18,10 @@
     <h2>Hi there 👋, I'm <a href="https://www.linkedin.com/in/sowmik-sarker/">Sowmik Sarker</a></h2>
 </div>
 
-    - 🔭 I’m currently working on React.js, Node.js, GraphQL, Spring-Boot
-    - 🌱 I’m currently learning Kafka, Zookeeper
-    - 👀️ I’m interested in working with Big Data and learning about new technologies.
-    - 💬 Ask me about C, C++, Java, Javascript, Competitive Coding
+    - 🔭 I’m currently working on React.js, Node.js, GraphQL, Spring-Boot, Kafka Streams, Kafka Connect
+    - 🌱 I’m currently learning Spring WebFlux
+    - 👀️ I’m interested in working with Big Data, Full-Stack and learning about new technologies.
+    - 💬 Ask me about C++, Java, Javascript, Competitive Coding
     - 📫 How to reach me: <sowmiksarker.2355.csedu@gmail.com>
 
     
@@ -33,17 +33,23 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `C`, `C++`,`Java`, `Javascript`
+- **Languages**: `C++`,`Java`, `Javascript`
  
-- **Familiar**: `React`, `Node`, `GraphQL`, `HTML`, `CSS`
+- **Familiar**: `Spring Boot`, `Spring WebFlux`, `Kafka Streams`, `Kafka Connect`, `React`, `Redux`, `Nodejs`, `Express`, `REST API`, `GraphQL`
 
-- **Databases**: `MySQL`, `Oracle`, `Postgres`, `MongoDB`, `Firebase`, `SQLite`
+- **Databases**: SQL+NoSQL (`Oracle`, `Postgres`, `MySQL`, `ScyllaDB`, `Firebase`)
 
-- **Frameworks**: `Spring Boot`, `Spring`, `Apache Struts 2`, `Python Flask` 
-    
-- **Data-Structures**, **Algorithms**
+- **Frameworks**: `Spring Boot`, `Spring WebFlux`, `Apache Struts 2`
 
-- **Operating System**: `Mac OS`, `Linux(Ubuntu)`, `Windows`        
+- **APM**       : `Prometheus`, `Grafana`, `ELK`
+
+- **Unit Test** : `Mockito`, `Jest`, `Chai`, `Mocha`
+
+- **Others**    : `Docker`, `AWS(EC2)`, `Nginx`, `Redis`, `Apache Lucene`, `pm2`
+
+- **API Spec, Time & Issue Tracking**: `Confluence`, `Jira`, `Notion`
+
+- **Data-Structures**, **Algorithms**    
       
  <!-- 
 <br>
